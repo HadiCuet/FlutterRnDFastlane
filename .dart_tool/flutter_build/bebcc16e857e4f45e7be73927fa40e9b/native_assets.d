@@ -1,0 +1,1 @@
+ /Users/abdullahalhadi/Desktop/FlutterRnDFastlane/.dart_tool/flutter_build/bebcc16e857e4f45e7be73927fa40e9b/native_assets.yaml: 
