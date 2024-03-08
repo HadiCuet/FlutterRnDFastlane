@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 
 class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title});
+  // const MyHomePage({super.key, required this.title});
 
   // This widget is the home page of your application. It is stateful, meaning
   // that it has a State object (defined below) that contains fields that affect
@@ -15,6 +15,8 @@ class MyHomePage extends StatefulWidget {
   // always marked "final".
 
   final String title;
+
+  const MyHomePage({Key? key, required this.title}) : super(key: key);
 
   @override
   State<MyHomePage> createState() => _MyHomePageState();
